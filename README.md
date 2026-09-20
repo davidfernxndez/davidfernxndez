@@ -25,7 +25,7 @@ End-to-end Data Science and XAI project for the automatic classification of resi
 
 🔗 **[Repository](https://github.com/davidfernxndez/urban-typology-xai)**
 🌐 **[Web App](https://urban-tipology-xai.streamlit.app/)**
-
+<img src="./assets/urban-xai.demo.png" width="100%">
 </td>
 
 <td width="50%" valign="top">
