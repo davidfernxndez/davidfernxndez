@@ -17,29 +17,53 @@ I hold a **Bsc** and **MSc in Telecommunications Engineering** and an **MSc in D
 <tr>
 <td width="50%" valign="top">
 
-### 🏙️ Urban Typology XAI
-
-**Explainable AI for the Study of Urban Fragmentation**
+### 🏙️ Explainable AI for the Study of Urban Fragmentation
 
 End-to-end Data Science and XAI project for the automatic classification of residential typologies, combining Machine Learning with model interpretability techniques.
 
 `Python` `Scikit-learn` `XGBoost` `SHAP` `Streamlit`
 
-🔗 **[Repository](https://github.com/...)**
-🌐 **[Live Demo](https://urban-tipology-xai.streamlit.app/)**
+🔗 **[Repository](https://github.com/davidfernxndez/urban-typology-xai)**
+🌐 **[Web App](https://urban-tipology-xai.streamlit.app/)**
+
 </td>
 
 <td width="50%" valign="top">
 
-### ⚡ Active Learning with Spark
+### ⚡ Active Learning with Apache Spark
 
-**Active Learning for Big Data**
+A scalable Active Learning framework combining uncertainty and diversity-based instance selection with Apache Spark and MLlib.
 
-Implementation of uncertainty- and diversity-based active learning strategies using Apache Spark and MLlib.
+`Python` `PySpark` `MLlib` `K-Means` 
 
-`Python` `PySpark` `MLlib` `K-Means`
+🔗 **[Repository](https://github.com/davidfernxndez/spark-active-learning)**
 
-🔗 **[Repository](https://github.com/...)**
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Deep Reinforcement Learning agent to reduce energy consumption in 5G
+
+DQN-based system designed to reduce energy consumption in 5G networks while maintaining service quality.
+
+`Python` `PyTorch` `Gymnasium` `DQN`
+
+🔗 **[Repository](https://github.com/davidfernxndez/DQN-Resource-Allocation-Agent-in-5G)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎙️ Pitch Correction System
+
+
+Open-source audio processing engine and desktop application developed from scratch for real-time vocal pitch correction.
+
+`Matlab` `UI Design` `DSP` `Audio Processing` `Product software`
+
+🔗 **[Repository](https://github.com/davidfernxndez/pitch-correction-system)**
 
 </td>
 </tr>
@@ -48,17 +72,3 @@ Implementation of uncertainty- and diversity-based active learning strategies us
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/david-fernxndez-martinez/) · [Mail](david.fernxndez.martinez@gmail.com)
-<!--
-**davidfernxndez/davidfernxndez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
