@@ -114,7 +114,7 @@ Open-source audio processing engine and desktop application developed from scrat
 
 
 ## 📫 Connect with me
-
+I am interested in opportunities in **Data Science**, **Machine Learning**, and **AI**, where I can combine my background in engineering, data, and software development. Feel free to contact me via Linkedin or Email 😊
 
 🔗 **LinkedIn:** [https://www.linkedin.com/in/david-fernxndez-martinez/](https://www.linkedin.com/in/david-fernxndez-martinez/)  
 ✉️ **Email:** [david.fernxndez.martinez@gmail.com](mailto:david.fernxndez.martinez@gmail.com)
