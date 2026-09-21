@@ -49,7 +49,7 @@ Here are some highlights from my portfolio. Feel free to explore the repositorie
 
 <!-- Row 1: Text on the left (50%), Image on the right (50%) -->
 <tr>
-  <td width="50%" valign="top">
+  <td width="10%" valign="top">
 
 ### 🏙️ Explainable AI for Urban Fragmentation
 
@@ -61,9 +61,9 @@ End-to-end Data Science and XAI project for the automatic classification of resi
 🌐 **[Web App](https://urban-tipology-xai.streamlit.app/)**
   </td>
 
-  <td width="50%" valign="top" align="center">
+  <td width="90%" valign="top" align="center">
 
-<img src="./assets/urban-xai.demo.png" width="100%">
+<img src="./assets/urban_xai_demo.png" width="100%">
   </td>
 </tr>
 
@@ -135,7 +135,7 @@ End-to-end Data Science and XAI project for the automatic classification of resi
 🔗 **[Repository](https://github.com/davidfernxndez/urban-typology-xai)**  
 🌐 **[Web App](https://urban-tipology-xai.streamlit.app/)**
 
-<img src="./assets/urban-xai.demo.png" width="100%">
+<img src="./assets/urban_xai_demo.png" width="80%">
 
 </td>
 
