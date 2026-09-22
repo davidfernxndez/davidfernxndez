@@ -65,7 +65,7 @@ End-to-end Data Science and XAI project for the automatic classification of resi
 
 <td width="50%" valign="top">
 
-### 📡 Energy-Efficient 5G with Deep Reinforcement Learning
+### 📡 Deep Reinforcement Learning for Energy Saving in 5G Networks
 
 DQN-based system designed to reduce energy consumption in 5G networks while maintaining service quality.
 
