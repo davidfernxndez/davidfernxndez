@@ -1,4 +1,4 @@
-# Data Scientist | Machine Learning & AI | Software Engineering
+# Data Scientist | AI & ML Engineering | Software Engineering
 
 Data Scientist and Software Engineer with more than 3 years of professional experience developing **data-driven software solutions** across the entire data lifecycle.
 
