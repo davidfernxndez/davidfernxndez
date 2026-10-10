@@ -1,6 +1,6 @@
 # Data Scientist | AI & ML Engineering | Software Engineering
 
-Data Scientist and Software Engineer with more than 3 years of professional experience developing **data-driven software solutions** across the entire data lifecycle.
+Data Scientist and AI Engineer with more than 3 years of professional experience developing **data-driven software solutions** across the entire data lifecycle.
 
 I hold a **Bsc** and **MSc in Telecommunications Engineering** and an **MSc in Data Science and Computer Engineering** from the University of Granada, with a strong academic record, including **9 highest-honors distinctions**.
 
