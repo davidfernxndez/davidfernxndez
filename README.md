@@ -71,7 +71,7 @@ End-to-end Data Science and XAI project for the automatic classification of resi
 
 <td width="50%" valign="top">
 
-### 📡 GitHub Repository RAG Assistant
+### 🤖 GitHub Repository RAG Assistant
 
 Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries, with source-grounded answers and file-level traceability.
 
