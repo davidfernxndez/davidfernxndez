@@ -77,7 +77,7 @@ Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub reposi
 
 `LangChain` `ChromaDB` `HuggingFace` `Ragas` `OLlama`
 
-🔗 **[Repository](https://github.com/davidfernxndez/github-repository-rag)** 
+🔗 **[Repository](https://github.com/davidfernxndez/github-repository-rag)** • 🌐 **[Web App](https://rag-repository-assistant.streamlit.app/)**
 
 <img src="./assets/architecture_RAG.png" width="100%">
 
